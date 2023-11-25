@@ -9,6 +9,7 @@ Skills:
     <li>💻HTML and CSS</li>
   </ul>
 
+
 - 🔭 I’m currently working on Building it on my portfolio  
 - 🌱 I’m currently learning React 
 - ⚡ Fun fact:
