@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ilori Tobi
 #### A frontend Developer
-I'm a Software Engineer, from Nigeria. Passionate about learning, building and teaching tech.
+I'm a Software Engineer, Passionate about learning, building and teaching tech. I currently at <a href="https://daxxacademy.com/">Daxx Academy</a>
 
 Skills: 
   <ul>
